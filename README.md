@@ -18,11 +18,11 @@ Classes
 
 'DataService'   -   gets data from the List<>,
                     removes all duplicate lines,
-                    translates words to Latin       ->    ('TranslatorService' uses library
-                    and puts the data to the entities.                        to translate words)
+                    translates words to Latin       ->    ('TranslatorService' uses library to translate words)
+                    and puts the data to the entities.                        
 
-'DBService'     -  connects to the database         ->    ('DBConnection'      takes properties from local directory
-                   and pushes entities to database.                           'src/main/resources/hibernate.properties')
+'DBService'     -  connects to the database         ->    ('DBConnection'      takes properties from local directory 'src/main/resources/hibernate.properties')
+                   and pushes entities to database.                           
 ________________________________________________________________________________________________________________________
 
 Also you can see 'graphic.jpg'.
