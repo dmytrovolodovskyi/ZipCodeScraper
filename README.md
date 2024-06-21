@@ -1,5 +1,5 @@
 created by      Dmytro Volodovskyi
-last update:    20.06.2024
+last update:    21.06.2024
 
 
 ZipCodeScraper
